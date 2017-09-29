@@ -10,3 +10,14 @@ html {
 
 /* Write your solution here */
 
+@media only screen and (min-width: 1300px) {
+  #ostrich {
+    top: -50px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  #ostrich {
+    top: 30px;
+  }
+}
